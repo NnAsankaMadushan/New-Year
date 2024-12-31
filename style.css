@@ -86,7 +86,7 @@ span.sete:before{
   width: 100px;
   height: 100px;
   display: block;
-  background: #e8d57a;
+  background: #a66ab3;
   border-radius: 50%;
   position: absolute;
   top: 50%;
@@ -101,7 +101,7 @@ span.sete:before{
   height: 0;
   border-style: solid;
   border-width: 0 10px 20px 10px;
-  border-color: transparent transparent #b19b32 transparent;
+  border-color: transparent transparent #a66ab3 transparent;
   position: absolute;
   left: 50%;
   margin-left: -10px;
